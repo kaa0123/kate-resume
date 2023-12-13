@@ -1,0 +1,42 @@
+.mb-5{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+
+}
+.mb-3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium !important;
+}
+.mb-0{
+    color: rgb(187, 131, 138);
+    font-family: 'Innovate', sans-serif;
+    font-stretch: narrower !important;
+
+}
+.text-primary{
+    color: rgb(94, 52, 57)!important;
+
+}
+.hover{
+    color: rgb(187, 131, 138);
+}
+.h2{
+    /*font-family: 'Courier New', Courier, monospace;*/
+}
+.darkcolor{
+    background-color: rgb(94, 52, 57) !important;
+    
+    /* /*color: rgb(94, 52, 57); */
+}
+.settheback {
+    background-image: url("https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGYtczEyNC1hay0yNjE3XzIuanBn.jpg") !important;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+.list{
+    font-size: medium !important;
+}
+    
+    

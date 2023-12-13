@@ -1,0 +1,54 @@
+body{
+    background-image: url("https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0xMTItamotMDIxLWpvYjU5Ny5qcGc.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 20%;
+    background-repeat: repeat;
+    background-color: rgba(121, 67, 107, 0.335);
+}
+h1{
+    color: rgb(94, 52, 57);
+}
+iframe{
+    border: 20px solid rgb(255, 245, 213);
+
+}
+.img{
+    display: block;
+    margin: auto;
+    size: 400px;
+}
+.header{
+    display: block;
+    margin: auto;
+    background-color: rgb(255, 245, 213);
+    font-family: sans-serif;
+    font-size: small;
+}
+.footer{
+    display: block;
+    margin: auto;
+    font-family: sans-serif;
+    font-size: larger;
+    background-color: rgb(255, 245, 213);
+}
+.mainstuff{
+    background-color: rgb(187, 131, 138);
+    color: rgb(243, 207, 211);
+    font-family: sans-serif;
+    font-size: 20px;
+    display: block;
+    margin: auto;
+    padding: 20px;
+    border: 20px solid rgb(255, 245, 213);
+    
+}
+.image-container {
+    justify-content: center;
+    border: 20px solid rgb(255, 245, 213);
+    display: flex; /* Optional: Adjust display property as needed */
+    margin: auto;
+}
+
+/*.image-container img {
+  display: block; /* Ensures the image takes up the full width of the container */
